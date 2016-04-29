@@ -4,7 +4,7 @@
 #
 Name     : rubygem-simplecov
 Version  : 0.10.0
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/simplecov-0.10.0.gem
 Source0  : https://rubygems.org/downloads/simplecov-0.10.0.gem
 Summary  : No detailed summary available
